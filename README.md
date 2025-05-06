@@ -2,6 +2,9 @@
 
 A minimalist and modern icon theme for Visual Studio Code that enhances your coding experience with carefully crafted icons.
 
+![VS Code Using V Themes and V Icons](/assets/pre-v1.png)
+
+
 ## About
 
 V Icons brings a fresh and clean look to your VS Code workspace with a carefully designed set of file and folder icons. The theme focuses on clarity and visual distinction while maintaining a modern aesthetic.
