@@ -1,9 +1,9 @@
 # V Icons
-
 A minimalist and modern icon theme for Visual Studio Code that enhances your coding experience with carefully crafted icons.
 
-![VS Code Using V Themes and V Icons](/assets/pre-v1.png)
-
+<div align="center">
+  <img src="assets/pre-v1.png" alt="V Icons Preview" />
+</div>
 
 ## About
 
@@ -17,23 +17,20 @@ V Icons brings a fresh and clean look to your VS Code workspace with a carefully
 - 💡 Optimized for readability
 - 🚀 Lightweight and performance-focused
 
-## Included Icons
 
-The theme currently includes custom icons for:
+## Installation
 
-- JavaScript (.js)
-- TypeScript (.ts)
-- HTML (.html)
-- CSS (.css)
-- JSON (.json)
-- Markdown (.md)
-- Folders (both closed and open states)
-- Default file icon for other types
+We are currently in development and testing phase. You can install the extension from the marketplace once it is published.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
 Created with ❤️ by [Nabin Khair](https://github.com/nabinkhair42)
 
-## License
+## Acknowledgments
 
-MIT
+- Inspired by the need for clean and modern file icons
+- Thanks to all contributors who help make this project better
