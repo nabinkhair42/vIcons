@@ -1,0 +1,118 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./icons/default_file.svg"
+    },
+    "_folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./icons/folder_open.svg"
+    },
+    "file_type_js": {
+      "iconPath": "./icons/javascript.svg"
+    },
+    "file_type_ts": {
+      "iconPath": "./icons/typescript.svg"
+    },
+    "file_type_html": {
+      "iconPath": "./icons/html.svg"
+    },
+    "file_type_css": {
+      "iconPath": "./icons/css.svg"
+    },
+    "file_type_json": {
+      "iconPath": "./icons/json.svg"
+    },
+    "file_type_md": {
+      "iconPath": "./icons/markdown.svg"
+    },
+    "file_type_svg": {
+      "iconPath": "./icons/file_svg.svg"
+    },
+    "folder_type_vscode": {
+      "iconPath": "./icons/vscode_folder.svg"
+    },
+    "folder_type_vscode_open": {
+      "iconPath": "./icons/vscode_folder_expanded.svg"
+    },
+    "folder_type_tests": {
+      "iconPath": "./icons/test_folder.svg"
+    },
+    "folder_type_tests_open": {
+      "iconPath": "./icons/test_folder_open.svg"
+    },
+    "folder_type_public": {
+      "iconPath": "./icons/public_folder.svg"
+    },
+    "folder_type_public_open": {
+      "iconPath": "./icons/public_folder_open.svg"
+    },
+    "folder_type_node": {
+      "iconPath": "./icons/node_modules.svg"
+    },
+    "folder_type_node_open": {
+      "iconPath": "./icons/node_modules_open.svg"
+    },
+    "file_type_nodejs": {
+      "iconPath": "./icons/nodejs.svg"
+    },
+    "folder_type_next": {
+      "iconPath": "./icons/next_folder.svg"
+    },
+    "folder_type_next_open": {
+      "iconPath": "./icons/next_folder_expanded.svg"
+    },
+    "file_type_next": {
+      "iconPath": "./icons/nextjs.svg"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "fileExtensions": {
+    "js": "file_type_js",
+    "ts": "file_type_ts",
+    "tsx": "file_type_ts",
+    "jsx": "file_type_js",
+    "html": "file_type_html",
+    "css": "file_type_css",
+    "json": "file_type_json",
+    "md": "file_type_md",
+    "svg": "file_type_svg"
+  },
+  "folderNames": {
+    ".vscode": "folder_type_vscode",
+    "test": "folder_type_tests",
+    "tests": "folder_type_tests",
+    "__tests__": "folder_type_tests",
+    "public": "folder_type_public",
+    "node_modules": "folder_type_node",
+    ".next": "folder_type_next",
+    "app": "folder_type_next",
+    "pages": "folder_type_next"
+  },
+  "folderNamesExpanded": {
+    ".vscode": "folder_type_vscode_open",
+    "test": "folder_type_tests_open",
+    "tests": "folder_type_tests_open",
+    "__tests__": "folder_type_tests_open",
+    "public": "folder_type_public_open",
+    "node_modules": "folder_type_node_open",
+    ".next": "folder_type_next_open",
+    "app": "folder_type_next_open",
+    "pages": "folder_type_next_open"
+  },
+  "fileNames": {
+    "next.config.js": "file_type_next",
+    "next.config.mjs": "file_type_next",
+    "next.config.ts": "file_type_next",
+    ".env.local": "file_type_next",
+    "middleware.ts": "file_type_next",
+    "middleware.js": "file_type_next",
+    "package.json": "file_type_nodejs",
+    "package-lock.json": "file_type_nodejs",
+    "pnpm-lock.yaml": "file_type_nodejs",
+    "yarn.lock": "file_type_nodejs"
+  }
+}
